@@ -1,4 +1,4 @@
-- hosts: webserver
+- hosts: 172.31.81.175
   become: true
   become_user: root
   vars:
